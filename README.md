@@ -1,6 +1,6 @@
 # Magnetic microrheology for local stiffness measurement in TFM
 
-Scripts used in the MSc dissertation *[A novel measurement framework for 3D TFM in Heterogeneous media using superparamagnetic nanobeads]* (Gabriela Marinho, University of Minho, 2026), developed in collaboration with KU Leuven.
+Scripts used in the MSc dissertation *A novel measurement framework for 3D TFM in Heterogeneous media using superparamagnetic nanobeads* (Gabriela Marinho, University of Minho, 2026), developed in collaboration with KU Leuven.
 
 The scripts analyze the displacement fields obtained with TFMLAB, the TrackMate tracks of the calibration experiments and the magnetic field simulated in FEMM.
 
