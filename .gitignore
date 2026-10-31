@@ -1,0 +1,9 @@
+*.mat
+*.csv
+*.xlsx
+*.png
+*.pdf
+*.tif
+*.tiff
+__pycache__/
+.DS_Store
